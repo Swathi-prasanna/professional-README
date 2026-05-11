@@ -3,8 +3,6 @@
 ## 📖 About This Project
 This project demonstrates basic Git and GitHub commands.
 
----
-
 ## ✨ Features
 
 - Beginner friendly
@@ -12,7 +10,6 @@ This project demonstrates basic Git and GitHub commands.
 - Markdown formatting
 - Git command examples
 
----
 
 ## 🛠️ Tools Used
 
@@ -22,13 +19,13 @@ This project demonstrates basic Git and GitHub commands.
 | GitHub | swathi |
 | Markdown | README.md |
 
----
 
 ## 🔗 Useful Links
 
 - [GitHub](https://github.com)
 - [Git Documentation](https://www.w3schools.com/html/default.asp)
 
----
-
-## 6*
+## 🎯 Goals
+- Learn Git basics  
+- Practice Markdown  
+- Improve documentation skills  6
