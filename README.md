@@ -1,4 +1,4 @@
-# 🚀 Git Command Showcase
+9# 🚀 Git Command Showcase
 
 ## 📖 About This Project
 This project demonstrates basic Git and GitHub commands.
@@ -18,21 +18,17 @@ This project demonstrates basic Git and GitHub commands.
 
 | Tool | Purpose |
 |------|----------|
-| Git | Version Control |
-| GitHub | Repository Hosting |
-| Markdown | Documentation |
+| Git | 2.54.0.windows.1 |
+| GitHub | swathi |
+| Markdown | README.md |
 
 ---
 
 ## 🔗 Useful Links
 
 - [GitHub](https://github.com)
-- [Git Documentation](https://git-scm.com/doc)
+- [Git Documentation](https://www.w3schools.com/html/default.asp)
 
 ---
 
-## 🎯 Goals
-
-- Learn Git basics
-- Practice Markdown
-- Improve documentation skills
+## 6*
