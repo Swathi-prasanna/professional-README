@@ -1,4 +1,4 @@
-9# 🚀 Git Command Showcase
+# 🚀 Git Command Showcase
 
 ## 📖 About This Project
 This project demonstrates basic Git and GitHub commands.
